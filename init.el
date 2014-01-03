@@ -26,5 +26,5 @@
   (when (not (package-installed-p p))
     (package-install p)))
 
-(byte-recompile-directory (expand-file-name "~/.emacs.d") 0)
+;;(byte-recompile-directory (expand-file-name "~/.emacs.d") 0)
 (load "~/.emacs.d/user.el")
