@@ -37,7 +37,7 @@
 ;; (set-face-attribute 'default nil :height 140)
 ;; (load-theme 'subtle-hacker t)
 (load-theme 'solarized-dark t)
-(set-face-attribute 'default nil :font "Source Code Pro-10")
+(set-face-attribute 'default nil :font "Source Code Pro-13")
 
 
 ;; Flyspell often slows down editing so it's turned off
